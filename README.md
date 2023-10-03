@@ -1,5 +1,19 @@
-# RelogioAnalogicoJs
+<h1 align="center"> Clock app </h1>
 
-## Relógio analógico feito com Javascript.
 
-<p align="left"><img width=100% src="./assets/images/clock.png"></p>
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- Vite
+- React
+- TypeScript
+- Styled-components
+
+## 💻 Projeto
+
+Um relógio analógico e um relógio digital.
+
+
+
+<p align="left"><img width=100% src="./src/assets/imgs/clock-work.png"></p>
